@@ -7,6 +7,10 @@ This assignment is part of the **Programming Fundamentals - CO1027** course at *
 ### Objective
 The goal of this assignment is to enhance students' fundamental programming skills by applying logical thinking and problem-solving techniques to historical-themed challenges.
 
+### Run code
+command to compile: **g++ -o main main.cpp tay_nguyen_campaign.cpp -I . -std=c++11**
+command to run: **./main tnc_tc_01_input**
+
 ---
 **Ho Chi Minh City University of Technology**  
 **Faculty of Computer Science and Engineering**  
