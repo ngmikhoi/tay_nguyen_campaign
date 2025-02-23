@@ -9,6 +9,7 @@ The goal of this assignment is to enhance students' fundamental programming skil
 
 ### Run code
 command to compile: **g++ -o main main.cpp tay_nguyen_campaign.cpp -I . -std=c++11**
+
 command to run: **./main tnc_tc_01_input**
 
 ---
